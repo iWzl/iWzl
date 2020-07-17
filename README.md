@@ -1,2 +1,3 @@
-### Hi there 👋
-[![LeoWang's github stats](https://github-readme-stats.vercel.app/api?username=iWzl&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide)](https://www.upuphub.com)
+## 你好，是我 👋
+
+## 一个野鸡大学的菜鸟程序员  [![LeoWang's github stats](https://github-readme-stats.vercel.app/api?username=iWzl&show_icons=true&icon_color=79ff97)](https://www.upuphub.com) 
